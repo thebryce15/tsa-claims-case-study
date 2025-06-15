@@ -43,6 +43,8 @@ A public Tableau dashboard was created to communicate the results interactively.
 - Top states for claim frequency
 - Most common claim types
 
+![tsa_dashboard_screenshot](https://github.com/user-attachments/assets/60000994-39a8-4c2c-a69a-60436d728da5)
+
 [View the Dashboard on Tableau Public](https://public.tableau.com/views/TSAClaimsRiskDashboard20022017/TSAClaimsTrendsandRiskAnalysis20022017)
 
 ## Author
